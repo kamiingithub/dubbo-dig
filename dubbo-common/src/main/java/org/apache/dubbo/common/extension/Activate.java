@@ -35,6 +35,7 @@ import java.lang.annotation.Target;
  * SPI provider can call {@link ExtensionLoader#getActivateExtension(URL, String, String)} to find out all activated
  * extensions with the given criteria.
  *
+ * @author dubbo
  * @see SPI
  * @see URL
  * @see ExtensionLoader

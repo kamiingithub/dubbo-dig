@@ -44,3 +44,6 @@ compiler/.gradle/*
 
 # protobuf
 dubbo-serialization/dubbo-serialization-protobuf/build/*
+/.github/
+/.idea/
+/.mvn/
